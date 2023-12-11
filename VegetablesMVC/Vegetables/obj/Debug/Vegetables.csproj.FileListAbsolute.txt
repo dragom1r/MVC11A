@@ -1,0 +1,8 @@
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\bin\Debug\Vegetables.exe.config
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\bin\Debug\Vegetables.exe
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\bin\Debug\Vegetables.pdb
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\obj\Debug\Vegetables.csproj.AssemblyReference.cache
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\obj\Debug\Vegetables.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\obj\Debug\Vegetables.csproj.CoreCompileInputs.cache
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\obj\Debug\Vegetables.exe
+C:\Users\drago\Desktop\Programs\VegetablesMVC\Vegetables\obj\Debug\Vegetables.pdb
